@@ -13,7 +13,7 @@ This collection contains all the api endpoint requests
 Clone the repo and install dependencies:
 
 ```bash
-git clone --depth 1 --branch main https://github.com/parasthind03/AddressBook your-project-name
+git clone --depth 1 --branch main https://github.com/parasthind03/AddressBook.git your-project-name
 cd your-project-name
 npm install
 ```
